@@ -2,6 +2,8 @@
 
 WizProtect is a Python application for real-time object detection and protection using a webcam. It leverages the YOLOv3 (You Only Look Once) model and OpenCV to detect multiple objects, including nested objects, and highlights them with fixed color coding for clarity and consistency.
 
+![image](https://github.com/Solrikk/WizProtect/blob/main/assets/images/Test.png)
+
 # Features
 - Real-time Object Detection: Uses the YOLOv3 model for fast and accurate object detection directly from your webcam.
 - Nested Object Detection: Capable of detecting and highlighting objects even if they are inside or overlapping with other objects.
